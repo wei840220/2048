@@ -1,0 +1,48 @@
+* {
+  font-family: 'Roboto Condensed', sans-serif; }
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  position: relative; }
+
+h1 {
+  font-size: 50px;
+  line-height: 50px;
+  color: #7c736a; }
+
+h3 {
+  color: #b9ae9e;
+  position: absolute;
+  margin: 0;
+  top: 15px;
+  right: 0;
+  font-size: 30px;
+  line-height: 30px; }
+
+#game2048 {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  background-color: #b9ae9e; }
+  #game2048 div {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 20px 0px 0px 20px;
+    vertical-align: top;
+    font-size: 40px;
+    line-height: 100px;
+    text-align: center; }
+
+section {
+  display: block;
+  font-size: 80px;
+  text-align: center;
+  color: #fff7eb;
+  line-height: 500px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0; }
