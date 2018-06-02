@@ -2,4 +2,4 @@
 
 技術：HTML(Pug)、CSS(SASS)、Javascript
 
-DEMO：http://2048.weisite.com.tw/
+DEMO：http://f2e-veru.com/2048/
